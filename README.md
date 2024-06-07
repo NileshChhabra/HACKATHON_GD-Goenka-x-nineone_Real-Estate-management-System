@@ -22,6 +22,7 @@ Available Features:
 •	Overall System Information
 •	Agent Section
 Instructions: How to Run?
+Firstly Extract the .tar file
 After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
 There you’ll find a folder naming “htdocs”.
 Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).
